@@ -2,7 +2,7 @@
 
 IP="1.1.1.1"
 
-COMMAND="sudo systemctl restart easymesh.service"
+COMMAND="sudo systemctl restart pingx.service"
 
 PING_COUNT=4
 
